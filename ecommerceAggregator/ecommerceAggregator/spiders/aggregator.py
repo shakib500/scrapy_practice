@@ -17,3 +17,4 @@ class AggregatorSpider(scrapy.Spider):
             print (name)
             print (price)
             print ('\n')
+        next_page = response.xpath('//*[@class="pagination"]/li/a').extract()
