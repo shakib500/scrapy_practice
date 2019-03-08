@@ -12,12 +12,15 @@ class AggregatorSpider(scrapy.Spider):
         for processor in processor_details:
             name = processor.xpath('.//h4/a/text()').extract_first()
             price = processor.xpath('.//*[@class="price space-between"]/span/text()').extract_first()
-            print ('\n')
-            print (name)
-            print (price)
-            print ('\n')
+            # print ('\n')
+            # print (name)
+            # print (price)
+            # print ('\n')
+            yield{'Name': name,
+                  'Price': price}
         # absolute_next_page_url = response.urljoin(next_page_url)
         next_page_url = response.css('.pagination li:last-child a::attr(href)').extract_first()
+
         if next_page_url:
             yield scrapy.Request(next_page_url)
         # yield scrapy.Request(next_page_url, callback=self.parse_next_page)
