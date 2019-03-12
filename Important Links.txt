@@ -1,0 +1,7 @@
+1) A brief guide about how to configure scrapy with django.
+
+https://medium.com/@ali_oguzhan/how-to-use-scrapy-with-django-application-c16fabd0e62e
+
+2) Introduction in Ecommerce Site with Python, Scrapy
+
+https://www.practicalecommerce.com/Crawl-Your-Ecommerce-Site-with-Python-Scrapy
