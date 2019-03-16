@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import os
+import csv
+import glob
+import MySQLdb
+
 
 
 class AggregatorSpider(scrapy.Spider):
