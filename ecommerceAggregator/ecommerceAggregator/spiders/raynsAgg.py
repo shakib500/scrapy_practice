@@ -13,12 +13,16 @@ class RaynsaggSpider(scrapy.Spider):
         for processor in processor_details:
             name = processor.xpath('.//h2/a/text()').extract_first()
             price = processor.xpath('.//*[@class="price"]/text()').extract_first()
+            url = processor.xpath('//*[@class="product-name"]/a/@href').extract_first()
+            img = processor.xpath('//*[@class="product-image"]/img/@src').extract_first()
             # print ('\n')
             # print (name)
             # print (price)
             # print ('\n')
             yield{'Name': name,
-                  'Price': price}
+                  'Price': price,
+                  'Url': url,
+                  'Img': img }
 
         next_page_url = response.xpath('//*[@class="next i-next"]/@href').extract_first()
         yield scrapy.Request(next_page_url)

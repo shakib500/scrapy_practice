@@ -1,39 +1,40 @@
-Name,Price
-"Intel X-Series 9th Gen Core i7 9800X 3.80GHz-4.40GHz, 8 Core, 16 Thread 16.5MB Cache FCLGA2066 Socket Processor",
-AMD Bristol Ridge A6-9500 3.5-3.8 GHz (Unlocked) AM4 Socket 7th Gen. APU	,"Tk 5,700"
-Intel Pentium Gold G5400 3.7GHz 4MB Cache LGA1151 Socket Processor,"Tk 7,000"
-AMD Ryzen 3 1200 3.1-3.4 GHz 4-Core 8MB Cache 65W AM4 Processor,"Tk 7,700"
-AMD Ryzen 3 2200G 3.5-3.7 Ghz 4 Core 6MB Cache AM4 Socket Processor with Vega 8 Graphics,"Tk 9,000"
-"(Bundle) Intel Coffee Lake Core i3 8100 3.60GHz, 4 Core, 6MB Cache LGA1151 8th Gen. Processor","Tk 11,000"
-AMD Ryzen 3 1300X 3.5-3.7 GHz 4-Core 10MB+ Cache 65W AM4 Processor,"Tk 11,000"
-"(Single) Intel Coffee Lake Core i3 8100 3.60GHz, 4 Core, 6MB Cache LGA1151 8th Gen. Processor","Tk 11,600"
-Intel Core i7 3820 3.6GHz 3rd Gen. Processor,"Tk 12,500"
-AMD Ryzen 5 2400G 3.6-3.9 Ghz 4 Core 6MB Cache AM4 Socket Processor with Vega 11 Graphics,"Tk 14,000"
-AMD Ryzen 5 1500X 3.5-3.7 GHz 4-Core 18MB+ Cache 65W AM4 Turbo Processor,"Tk 14,600"
-"Intel 9th Gen Coffee Lake Core i5 9400F 2.9GHz-4.10GHz 6 Core, 9MB Cache Processor	","Tk 16,600"
-AMD Ryzen 5 2600 3.4GHz-3.9GHz 6 Core 19MB+ Cache AM4 Socket Processor,"Tk 17,000"
-Intel Kaby Lake Core i5 7400 3.00-3.50GHz 6MB Cache LGA1151 7th Gen.Processor,"Tk 17,300"
-"Intel Coffee Lake Core i5 8400 2.80-4.00GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 17,500"
-(Bundle) Intel Kaby Lake Core i5 7500 3.40GHz-3.80GHz 6MB Cache LGA1151 7th Gen.Processor,"Tk 18,000"
-AMD Ryzen 5 1600X 3.6-4.0GHz 6-Core 19MB+ Cache 95W AM4 Unlocked Processor,"Tk 20,200"
-"Intel Xeon E3-1220 v6 3.0GHz-3.5GHz, 4 Core, 4 Thread, 8MB Cache Processor	","Tk 21,500"
-"Intel Coffee Lake Core i5 8500 3.00-4.10GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 23,000"
-"(Bundle) Intel 9th Gen Coffee Lake Core i5 9600k 3.7GHz-4.6GHz, 6 Core, 9MB Cache LGA1151 Socket Processor","Tk 23,800"
-"Intel Coffee Lake Core i5 8600K 3.60-4.30GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 24,500"
-"(Single) Intel 9th Gen Coffee Lake Core i5 9600k 3.7GHz-4.6GHz, 6 Core, 9MB Cache LGA1151 Socket Processor","Tk 24,500"
-AMD RYZEN 7 1700 3.0-3.7 GHz 8-Core 16MB Cache 65W AM4 Turbo Processor,"Tk 24,700"
-AMD RYZEN 7 1700X 3.4-3.8 GHz 8-Core 20MB+ Cache 95W AM4 Turbo Processor,"Tk 27,400"
-AMD Ryzen 7 2700 3.2GHz-4.1GHz 8 Core 20MB+ Cache AM4 Socket Processor,"Tk 28,000"
-"Intel Xeon E3-1240 v6 3.7GHz-4.1Ghz, 4 Core, 8 Thread, 8MB Cache Processor	","Tk 28,000"
-Intel Kaby Lake Core i7 7700 3.60-4.20GHz 8MB Cache LGA1151 7th Gen.Processor,"Tk 28,500"
-"Intel Coffee Lake Core i7 8700 3.20-4.60GHz, 6 Core, 12MB Cache LGA1151 8th Gen. Processor","Tk 29,000"
-AMD Ryzen 7 2700X 3.7GHz-4.3GHz 8 Core 20MB+ Cache AM4 Scoket Processor,"Tk 29,000"
-AMD RYZEN 7 1800X 3.6-4.0 GHz 8-Core 20MB+ Cache 95W AM4 Turbo Processor,"Tk 35,200"
-"Intel Coffee Lake Core i7 8700K 3.70-4.70GHz, 6 Core, 12MB Cache LGA1151 8th Gen. Processor","Tk 37,200"
-"Intel 9th Gen Coffee Lake Core i7 9700K 3.6GHz-4.9GHz, 8 Core, 12MB Cache LGA1151 Socket Processor	","Tk 38,500"
-AMD Ryzen Threadripper 1900X 3.8-4.0GHz 8 Core 16 Threads 20MB Cache 180W TR4 Socket Processor,"Tk 43,500"
-AMD Ryzen Threadripper 1920X 3.5-4.0GHz 12 Core 24 Threads 38MB+ Cache 180W TR4 Socket Processor,"Tk 45,000"
-"Intel 9th Gen Coffee Lake Core i9 9900K 3.6GHz-5.0GHz, 8 Core, 16MB Cache LGA1151 Socket Processor","Tk 49,000"
-AMD Ryzen Threadripper 1950X 3.8-4.0GHz 16 Core 32 Threads 40MB+ Cache 180W TR4 Socket Processor,"Tk 71,500"
-"AMD Ryzen Threadripper 2970WX 3.0GHz-4.2GHz, 24 Core, 78.25MB Cache TR4 Socket Processor	","Tk 111,000"
-AMD Ryzen Threadripper 2990WX 3.0GHz-4.2GHz 32 Core 83MB Cache TR4 Scoket Processor,"Tk 165,000"
+Name,Price,Url,Img
+"Intel X-Series 9th Gen Core i7 9800X 3.80GHz-4.40GHz, 8 Core, 16 Thread 16.5MB Cache FCLGA2066 Socket Processor",,https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Bristol Ridge A6-9500 3.5-3.8 GHz (Unlocked) AM4 Socket 7th Gen. APU	,"Tk 5,700",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+Intel Pentium Gold G5400 3.7GHz 4MB Cache LGA1151 Socket Processor,"Tk 7,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 3 1200 3.1-3.4 GHz 4-Core 8MB Cache 65W AM4 Processor,"Tk 7,700",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 3 2200G 3.5-3.7 Ghz 4 Core 6MB Cache AM4 Socket Processor with Vega 8 Graphics,"Tk 9,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"(Bundle) Intel Coffee Lake Core i3 8100 3.60GHz, 4 Core, 6MB Cache LGA1151 8th Gen. Processor","Tk 11,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 3 1300X 3.5-3.7 GHz 4-Core 10MB+ Cache 65W AM4 Processor,"Tk 11,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"(Single) Intel Coffee Lake Core i3 8100 3.60GHz, 4 Core, 6MB Cache LGA1151 8th Gen. Processor","Tk 11,600",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+Intel Core i7 3820 3.6GHz 3rd Gen. Processor,"Tk 12,500",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 5 2400G 3.6-3.9 Ghz 4 Core 6MB Cache AM4 Socket Processor with Vega 11 Graphics,"Tk 14,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 5 1500X 3.5-3.7 GHz 4-Core 18MB+ Cache 65W AM4 Turbo Processor,"Tk 14,600",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"Intel 9th Gen Coffee Lake Core i5 9400F 2.9GHz-4.10GHz 6 Core, 9MB Cache Processor	","Tk 16,600",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 5 2600 3.4GHz-3.9GHz 6 Core 19MB+ Cache AM4 Socket Processor,"Tk 17,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+Intel Kaby Lake Core i5 7400 3.00-3.50GHz 6MB Cache LGA1151 7th Gen.Processor,"Tk 17,300",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"Intel Coffee Lake Core i5 8400 2.80-4.00GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 17,500",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+(Bundle) Intel Kaby Lake Core i5 7500 3.40GHz-3.80GHz 6MB Cache LGA1151 7th Gen.Processor,"Tk 18,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 5 2600X 3.6GHZ-4.2GHz 6 Core 19MB+ Cache AM4 Socket Processor,"Tk 20,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD Ryzen 5 1600X 3.6-4.0GHz 6-Core 19MB+ Cache 95W AM4 Unlocked Processor,"Tk 20,200",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"Intel Xeon E3-1220 v6 3.0GHz-3.5GHz, 4 Core, 4 Thread, 8MB Cache Processor	","Tk 21,500",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"Intel Coffee Lake Core i5 8500 3.00-4.10GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 23,000",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"(Bundle) Intel 9th Gen Coffee Lake Core i5 9600k 3.7GHz-4.6GHz, 6 Core, 9MB Cache LGA1151 Socket Processor","Tk 23,800",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"Intel Coffee Lake Core i5 8600K 3.60-4.30GHz, 6 Core, 9MB Cache LGA1151 8th Gen. Processor","Tk 24,500",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+"(Single) Intel 9th Gen Coffee Lake Core i5 9600k 3.7GHz-4.6GHz, 6 Core, 9MB Cache LGA1151 Socket Processor","Tk 24,500",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD RYZEN 7 1700 3.0-3.7 GHz 8-Core 16MB Cache 65W AM4 Turbo Processor,"Tk 24,700",https://ryanscomputers.com/intel-x-series-9th-gen-core-i7-9800x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/9/8/9800x.jpg
+AMD RYZEN 7 1700X 3.4-3.8 GHz 8-Core 20MB+ Cache 95W AM4 Turbo Processor,"Tk 27,400",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen 7 2700 3.2GHz-4.1GHz 8 Core 20MB+ Cache AM4 Socket Processor,"Tk 28,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"Intel Xeon E3-1240 v6 3.7GHz-4.1Ghz, 4 Core, 8 Thread, 8MB Cache Processor	","Tk 28,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+Intel Kaby Lake Core i7 7700 3.60-4.20GHz 8MB Cache LGA1151 7th Gen.Processor,"Tk 28,500",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"Intel Coffee Lake Core i7 8700 3.20-4.60GHz, 6 Core, 12MB Cache LGA1151 8th Gen. Processor","Tk 29,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen 7 2700X 3.7GHz-4.3GHz 8 Core 20MB+ Cache AM4 Scoket Processor,"Tk 29,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD RYZEN 7 1800X 3.6-4.0 GHz 8-Core 20MB+ Cache 95W AM4 Turbo Processor,"Tk 35,200",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"Intel Coffee Lake Core i7 8700K 3.70-4.70GHz, 6 Core, 12MB Cache LGA1151 8th Gen. Processor","Tk 37,200",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"Intel 9th Gen Coffee Lake Core i7 9700K 3.6GHz-4.9GHz, 8 Core, 12MB Cache LGA1151 Socket Processor	","Tk 38,500",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen Threadripper 1900X 3.8-4.0GHz 8 Core 16 Threads 20MB Cache 180W TR4 Socket Processor,"Tk 43,500",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen Threadripper 1920X 3.5-4.0GHz 12 Core 24 Threads 38MB+ Cache 180W TR4 Socket Processor,"Tk 45,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"Intel 9th Gen Coffee Lake Core i9 9900K 3.6GHz-5.0GHz, 8 Core, 16MB Cache LGA1151 Socket Processor","Tk 49,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen Threadripper 1950X 3.8-4.0GHz 16 Core 32 Threads 40MB+ Cache 180W TR4 Socket Processor,"Tk 71,500",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+"AMD Ryzen Threadripper 2970WX 3.0GHz-4.2GHz, 24 Core, 78.25MB Cache TR4 Socket Processor	","Tk 111,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
+AMD Ryzen Threadripper 2990WX 3.0GHz-4.2GHz 32 Core 83MB Cache TR4 Scoket Processor,"Tk 165,000",https://ryanscomputers.com/components/processor/amd-ryzen-7-1700x-processor.html,https://ryanscomputers.com/media/catalog/product/cache/1/small_image/300x200/9df78eab33525d08d6e5fb8d27136e95/r/y/ryzen-7-1700x-1.jpg
