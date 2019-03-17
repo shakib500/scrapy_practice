@@ -1,19 +1,15 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import os
-import csv
-import glob
-import MySQLdb
-
-
+from scrapy.http import Request
 
 class AggregatorSpider(scrapy.Spider):
     name = 'aggregator'
     allowed_domains = ['www.startech.com.bd']
-    start_urls = ['https://startech.com.bd/component/processor']
+    start_urls = ['https://startech.com.bd/component/processor','https://www.startech.com.bd/component/motherboard','https://www.startech.com.bd/component/graphics-card']
 
     def parse(self, response):
         processor_details = response.xpath('//*[@class="col-xs-12 col-md-4 product-layout grid"]')
+        # motherboard_details = response.xpath('//*[@class="col-xs-12 col-md-4 product-layout grid"]')
         for processor in processor_details:
             name = processor.xpath('.//h4/a/text()').extract_first()
             price = processor.xpath('.//*[@class="price space-between"]/span/text()').extract_first()
@@ -32,9 +28,3 @@ class AggregatorSpider(scrapy.Spider):
 
         if next_page_url:
             yield scrapy.Request(next_page_url)
-        # yield scrapy.Request(next_page_url, callback=self.parse_next_page)
-
-    # def parse_next_page(self, response):
-    #     # next_page_url = response.xpath('//*[@class="pagination"]/li/a/@href').extract_first()
-    #     self.logger.info("Visited %s", response.url)
-    #     # yield scrapy.Request(next_page_url)

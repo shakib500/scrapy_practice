@@ -1,16 +1,11 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import scrapy
-import os
-import csv
-import glob
-import MySQLdb
-
+from scrapy.http import Request
 
 class RaynsaggSpider(scrapy.Spider):
     name = 'raynsAgg'
     allowed_domains = ['ryanscomputers.com']
-    start_urls = ['https://ryanscomputers.com/components/processor.html']
+    start_urls = ['https://ryanscomputers.com/components/processor.html','https://ryanscomputers.com/components/mainboard.html','https://ryanscomputers.com/components/graphics-card.html']
 
     def parse(self, response):
         processor_details = response.xpath('//*[@class="item col-lg-4 col-md-4 col-sm-6"]')
@@ -30,23 +25,6 @@ class RaynsaggSpider(scrapy.Spider):
                   'Img': img }
 
         next_page_url = response.xpath('//*[@class="next i-next"]/@href').extract_first()
-        yield scrapy.Request(next_page_url)
-
-    def close(self, reason):
-        csv_file = max(glob.iglob('*.csv'),key=os.path.getctime)
-        # print (csv_file)
-        mydb = MySQLdb.connect(host='localhost',
-                                user='root',
-                                passwd='01923619725',
-                                db='aggregator')
-        cursor = mydb.cursor()
-        csv_data = csv.reader(file(csv_file))
-
-        row_count = 0
-        for row in csv_data:
-            if row_count != 0:
-                pass
-                # cursor.execute('INSERT IGNORE INTO  ')
-            row_count += 1
-        mydb.commit()
-        cursor.close()
+        # yield scrapy.Request(next_page_url)
+        if next_page_url:
+            yield scrapy.Request(next_page_url)
