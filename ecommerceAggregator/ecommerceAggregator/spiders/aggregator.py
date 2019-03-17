@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import os
-import csv
-import glob
-import MySQLdb
-
-
+from scrapy.http import Request
 
 class AggregatorSpider(scrapy.Spider):
     name = 'aggregator'

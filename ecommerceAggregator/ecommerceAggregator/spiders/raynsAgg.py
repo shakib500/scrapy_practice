@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import scrapy
-import os
-import csv
-import glob
-import MySQLdb
-
+from scrapy.http import Request
 
 class RaynsaggSpider(scrapy.Spider):
     name = 'raynsAgg'
@@ -31,22 +26,3 @@ class RaynsaggSpider(scrapy.Spider):
 
         next_page_url = response.xpath('//*[@class="next i-next"]/@href').extract_first()
         yield scrapy.Request(next_page_url)
-
-    def close(self, reason):
-        csv_file = max(glob.iglob('*.csv'),key=os.path.getctime)
-        # print (csv_file)
-        mydb = MySQLdb.connect(host='localhost',
-                                user='root',
-                                passwd='01923619725',
-                                db='aggregator')
-        cursor = mydb.cursor()
-        csv_data = csv.reader(file(csv_file))
-
-        row_count = 0
-        for row in csv_data:
-            if row_count != 0:
-                pass
-                # cursor.execute('INSERT IGNORE INTO  ')
-            row_count += 1
-        mydb.commit()
-        cursor.close()
