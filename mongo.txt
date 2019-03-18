@@ -1,0 +1,3 @@
+db.collection.count() ---- returns the document count number
+db.collection.find() ----- will show all the data
+db.collection.find().pretty() --- will show all the data in json format
