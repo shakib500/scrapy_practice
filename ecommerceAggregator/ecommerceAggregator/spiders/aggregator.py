@@ -14,7 +14,7 @@ class AggregatorSpider(scrapy.Spider):
             name = processor.xpath('.//h4/a/text()').extract_first()
             price = processor.xpath('.//*[@class="price space-between"]/span/text()').extract_first()
             url = processor.xpath('.//h4/a/@href').extract_first()
-            img = processor.xpath('.//*[@class="img-holder"]/a/img').extract_first()
+            img = processor.xpath('.//*[@class="img-holder"]/a/img/@src').extract_first()
             # print ('\n')
             # print (name)
             # print (price)

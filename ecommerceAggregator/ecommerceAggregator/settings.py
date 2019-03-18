@@ -69,7 +69,7 @@ ITEM_PIPELINES = {
 }
 MONGODB_SERVER = 'localhost'
 MONGODB_PORT = 27017
-MONGODB_DB = 'all_products'
+MONGODB_DB = 'all_product'
 MONGODB_COLLECTION = 'product'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
