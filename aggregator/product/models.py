@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models import Q
 
 
 class Product(models.Model):
@@ -6,6 +7,3 @@ class Product(models.Model):
     price = models.CharField(max_length=200)
     url = models.CharField(max_length=200)
     img = models.CharField(max_length=200)
-
-    # For converting the string into integer
-    # find_number = [n for n in re.findall(r'(\d+)', string.replace(',', ''))]

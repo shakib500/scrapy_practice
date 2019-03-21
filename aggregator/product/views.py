@@ -1,13 +1,14 @@
 from django.shortcuts import render, HttpResponse
 
-#from django.views.generic import ListView, DetailView
-
-
 from .models import Product 
-
-
-
+from django.db.models import Q
 
 def index(request):
-    products = Product.objects.all()
-    return render(request, "product/list.html",{'object_list':products})
+    query = request.GET.get('q')
+    if query == None:
+    	products = Product.objects.all()
+    	return render(request, "product/list.html",{'object_list':products})
+    else:
+    	results = Product.objects.filter(Q(name__icontains=query))
+    	return render(request, "product/list.html",{'object_list':results})
+
