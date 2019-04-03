@@ -1,1 +1,1 @@
-# scrapy_practice
+# Ecommerce Aggregator
