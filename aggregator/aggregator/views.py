@@ -1,5 +1,16 @@
-from django.http import HttpResponse
-from django.shortcuts import render,redirect
+from django.shortcuts import render, HttpResponse
+
+from product.models import Product 
+from django.db.models import Q
+import re
 
 def index(request):
-    return render(request, "index.html")
+    query = request.GET.get('q')
+    if query == None:
+    	products = Product.objects.all()
+    	return render(request, "index.html")
+
+    else:
+    	results = Product.objects.filter(Q(name__icontains=query))
+    	return render(request, "product/list.html",{'object_list':results})
+
