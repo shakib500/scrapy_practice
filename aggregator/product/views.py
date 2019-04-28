@@ -4,7 +4,7 @@ from .models import Product
 from django.db.models import Q
 import re
 
-def index(request):
+def product_index(request):
     query = request.GET.get('q')
     if query == None:
     	products = Product.objects.all()

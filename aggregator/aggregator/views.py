@@ -7,7 +7,6 @@ import re
 def index(request):
     query = request.GET.get('q')
     if query == None:
-    	products = Product.objects.all()
     	return render(request, "index.html")
 
     else:
